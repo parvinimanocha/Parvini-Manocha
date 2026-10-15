@@ -1,34 +1,43 @@
 # Hi, I'm Parvini Manocha 👋
 
-**Marketing Analytics | Business Research | Data & Business Analysis**
+**Marketing Analytics | Business Analysis | Excel & Power BI | Business Research**
 
-I'm a B.Com (Hons) graduate with professional experience in marketing operations, CRM management, campaign reporting, and business research. I enjoy using data to understand performance, improve processes, and communicate actionable insights.
-
-I'm building my portfolio around analytics, reporting, and business problem-solving.
+I'm a B.Com (Hons) graduate with experience in marketing operations, CRM management, campaign reporting, and business research. I enjoy translating data into actionable insights and using structured analysis to support better business decisions.
 
 ## 🛠️ Skills & Tools
 
-- **Data & Reporting:** Microsoft Excel, Power BI, KPI dashboards, data visualization
-- **Marketing Analytics:** Campaign performance, CTR, engagement, website analytics, SEO
-- **CRM & Automation:** Zoho CRM, Zoho Campaigns, HubSpot
-- **Research:** Market research, company research, business reporting
+- **Analytics & Reporting:** Microsoft Excel, Power BI, KPI dashboards, data visualization
+- **Marketing Analytics:** Meta Ads metrics, CTR, engagement, conversion and purchase trends, SEO
+- **CRM & Marketing Operations:** Zoho CRM, Zoho Campaigns, HubSpot
+- **Research & Risk:** Market research, company research, auditing, risk management, compliance analysis
 - **Currently developing:** SQL and advanced Power BI
 
-## 📊 Portfolio Projects
+## 📊 Projects
 
-### Marketing Campaign Dashboard
-A dashboard project focused on campaign performance metrics such as click-through rate, conversions, ROI, and channel effectiveness.
+### 1. Meta Ad Performance Dashboard | Power BI
+Built an interactive dashboard to analyze Facebook and Instagram campaign performance. Key metrics include impressions, clicks, CTR, engagement rate, conversion rate, purchases, and advertising budget. Visuals explore audience demographics, purchase trends, campaign performance, and ad-type effectiveness.
 
-### Power BI Dashboard
-A data-visualization project exploring business KPIs, trends, and performance insights.
+**Focus:** Digital marketing analytics · KPI monitoring · Data visualization
 
-### Website SEO Audit
-A research project reviewing website SEO and identifying opportunities to improve search visibility and website performance.
+### 2. Sales and Customer Insights Dashboard | Microsoft Excel
+Designed an interactive dashboard to explore sales performance, customer behavior, product demand, delivery efficiency, and customer satisfaction. Uses KPIs, charts, maps, and slicers to make business performance easier to understand.
 
-### Business & Company Research
-Research and reporting on companies, industries, and business developments, with an emphasis on clear, structured insights.
+**Focus:** Excel dashboards · Sales analysis · Customer insights
 
-> Project descriptions should be updated with links, screenshots, datasets, and findings as each project is published.
+### 3. Punjab National Bank (PNB) Fraud Case Study | Audit, Risk & Compliance
+Analyzed the PNB fraud case to examine audit failures, compliance risks, internal-control weaknesses, and fraud-detection mechanisms. Developed recommendations to strengthen governance, risk management, and audit practices, while considering regulatory and financial implications.
+
+**Focus:** Risk analysis · Internal controls · Audit · Compliance
+
+### 4. Website SEO & Digital Marketing Audit
+Conducted an SEO and digital marketing audit for an e-commerce website, reviewing technical SEO, on-page optimization, content quality, website authority, and social media performance. Assessed more than 40 SEO metrics and identified opportunities to improve organic visibility, website performance, and lead generation.
+
+**Focus:** SEO audit · Digital marketing · Performance improvement
+
+### 5. Globalization's Influence on Corporations
+Analyzed how globalization affects large businesses, with emphasis on expansion opportunities, competition, and supply-chain management. Proposed strategies for sustainable growth in a global market.
+
+**Focus:** Business research · Market analysis · Strategy
 
 ## 🎯 Career Interests
 
@@ -36,8 +45,9 @@ Business Analysis · MIS & Reporting · Marketing Analytics · Business Intellig
 
 ## 🤝 Connect
 
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Use the email listed on your professional resume
+- **LinkedIn:** [Parvini Manocha](https://www.linkedin.com/in/parvini-manocha-0aa1762b6/)
+- **GitHub:** [parvinimanocha-creator](https://github.com/parvinimanocha-creator)
 
 ---
-*Thanks for visiting my profile!*
+
+*I'm continuing to build this portfolio with project files, documentation, and analysis as I publish them.*
