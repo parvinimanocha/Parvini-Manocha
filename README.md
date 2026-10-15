@@ -1,42 +1,43 @@
 # Hi, I'm Parvini Manocha 👋
 
-## Marketing Analyst | Business Analyst
+**Marketing Analytics | Business Research | Data & Business Analysis**
 
-I enjoy turning data into actionable insights using Excel, Power BI, Google Analytics, and SEO.
+I'm a B.Com (Hons) graduate with professional experience in marketing operations, CRM management, campaign reporting, and business research. I enjoy using data to understand performance, improve processes, and communicate actionable insights.
 
----
+I'm building my portfolio around analytics, reporting, and business problem-solving.
 
-## Skills
+## 🛠️ Skills & Tools
 
-- Microsoft Excel
-- Power BI
-- Google Analytics
-- SEO
-- Marketing Analytics
-- CRM
-- SQL (Learning)
-- Data Visualization
+- **Data & Reporting:** Microsoft Excel, Power BI, KPI dashboards, data visualization
+- **Marketing Analytics:** Campaign performance, CTR, engagement, website analytics, SEO
+- **CRM & Automation:** Zoho CRM, Zoho Campaigns, HubSpot
+- **Research:** Market research, company research, business reporting
+- **Currently developing:** SQL and advanced Power BI
 
----
-
-## Projects
+## 📊 Portfolio Projects
 
 ### Marketing Campaign Dashboard
-Built an interactive Excel dashboard to track campaign performance, conversions, CTR, ROI, and channel effectiveness.
+A dashboard project focused on campaign performance metrics such as click-through rate, conversions, ROI, and channel effectiveness.
+
+### Power BI Dashboard
+A data-visualization project exploring business KPIs, trends, and performance insights.
 
 ### Website SEO Audit
-Performed a technical SEO audit and recommended improvements for website performance and search visibility.
+A research project reviewing website SEO and identifying opportunities to improve search visibility and website performance.
 
-### Power BI Sales Dashboard
-Created an interactive dashboard to analyze sales trends, KPIs, and customer performance.
+### Business & Company Research
+Research and reporting on companies, industries, and business developments, with an emphasis on clear, structured insights.
 
-### Google Analytics Project
-Analyzed website traffic, user acquisition, and engagement metrics to identify optimization opportunities.
+> Project descriptions should be updated with links, screenshots, datasets, and findings as each project is published.
+
+## 🎯 Career Interests
+
+Business Analysis · MIS & Reporting · Marketing Analytics · Business Intelligence · Risk & Compliance
+
+## 🤝 Connect
+
+- **LinkedIn:** Add your LinkedIn profile URL
+- **Email:** Use the email listed on your professional resume
 
 ---
-
-## Currently Learning
-
-- SQL
-- Python for Analytics
-- Advanced Power BI
+*Thanks for visiting my profile!*
